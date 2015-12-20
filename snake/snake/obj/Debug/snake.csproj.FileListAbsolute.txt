@@ -1,0 +1,6 @@
+C:\OpenServer\domains\snake\snake\snake\bin\Debug\snake.exe.config
+C:\OpenServer\domains\snake\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\OpenServer\domains\snake\snake\snake\bin\Debug\snake.exe
+C:\OpenServer\domains\snake\snake\snake\bin\Debug\snake.pdb
+C:\OpenServer\domains\snake\snake\snake\obj\Debug\snake.exe
+C:\OpenServer\domains\snake\snake\snake\obj\Debug\snake.pdb
