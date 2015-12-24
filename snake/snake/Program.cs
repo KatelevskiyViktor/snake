@@ -16,18 +16,8 @@ namespace snake
             Point p2 = new Point(4, 5, '#');
             p2.Draw();
 
-            Point p4 = new Point(7, 8, '#');
-
-            List<string> numList = new List<string>();
-            numList.Add("SH");
-            numList.Add("_");
-            numList.Add("^");
-
-            foreach (string i in numList)
-            {
-                Console.WriteLine(i);
-            }
-
+            HorizontalLine line = new HorizontalLine(5, 10, 8, '+');
+            line.Drow();
 
             Console.ReadLine();
         }
